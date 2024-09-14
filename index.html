@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Inicio</title>
+</head>
+
+<body>
+    <div class="cabecera">
+        <a href="index.php"><img src="Logo.jpg" alt=""></a>
+    </div>
+
+    <div class="botones">
+        <div class="botones_derecha">
+            <a href="https://www.facebook.com/profile.php?id=100089541283686" target="_blank">
+                <img src="logo_face.png" class="logo_face">
+            </a>
+            <a href="https://www.instagram.com/vickycruz?fbclid=IwY2xjawFJ2OBleHRuA2FlbQIxMAABHRoCq6y6_R9-LEWgwVCcP_LcXTL7arvgZpBDGl8M1viZ-TBHjNcqTtcIFA_aem_3Id2x6QgS_5hxGZxWJceAw" target="_blank">
+                <img src="logo_insta.png" class="logo_insta">
+            </a>
+        </div>
+        <div class="botones_centro">
+            <a href="" class="btn_inicio">INICIO</a>
+            <a href="" class="btn_inicio">SERVIVCIOS</a>
+            <a href="" class="btn_inicio">PRÓXIMOS VIAJES</a>
+            <a href="" class="btn_inicio">GALERÍA</a>
+            <a href="" class="btn_inicio">CONTÁCTANOS</a>
+        </div>
+    </div>
+
+    <div class="fondo">
+        <div class="cont_slogan">
+            <p class="slogan"><strong>VICKYTOURS</strong> es <br> tu opción para <br> tus viajes. <br> <span class="llama">¡LLÁMA YA!</span></p>
+        </div>
+    </div>
+
+    <div class="cont_acerca">
+        <div class="acercade">
+            <div class="foto_acerca">
+                <img src="foto_acercade.jpg" alt="">
+            </div>
+            <div class="texto_acercade">
+                <h1>SOBRE NOSOTROS</h1> <br>
+                <p>
+                    VickyTours es una pequeña <b>agencia de turismo</b> ubicada en <B>Mérida</B>, especializada en ofrecer <b>viajes</b> y <b>pasadías</b> inolvidables por la región. Con un enfoque personalizado y atención cercana, VickyTours organiza recorridos por los <b>paisajes más hermosos</b> de la península de Yucatán, permitiendo a los visitantes disfrutar de la naturaleza, cultura y tradición de la zona. <br><br>
+                    <!-- Con rutas diseñadas para todos los gustos-->
+                    </p>
+                    <p>VickyTours garantiza <b>experiencias únicas</b>, ya sea para explorar la majestuosidad de la sierra o relajarse en las cálidas aguas termales locales. ¡Vive tu experiencia con la calidez y profesionalismo de VickyTours!</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="sombra">
+    </div>
+
+    <br><br><br><br><br>
+</body>
+</html>
