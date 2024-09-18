@@ -84,7 +84,7 @@ body{
     /*background-repeat: no-repeat;  Evita que la imagen se repita */
 }
 .cont_slogan{
-    /* border: 1px black solid; */
+    border: 1px black solid;
     padding-top: 150px;
     margin-left: 800px;
     width: 850px;
